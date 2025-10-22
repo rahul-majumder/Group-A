@@ -35,7 +35,7 @@ The Decision Tree model effectively predicts customer purchase behavior using de
 
 ---
 
-### 👨‍💻 Author
-**Rahul Majumder**  
+### 👨‍💻 (Author) Rahul Majumder
+Members : Swati Chakraborty, Sunetra Pradhan, Muskan Baghwar, Bijan Roy (TEAM A)
 B.Sc. Computer Science (3rd Year)  
 A.C. College, Jalpaiguri
